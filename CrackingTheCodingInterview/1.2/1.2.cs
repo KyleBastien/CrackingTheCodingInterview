@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace OneDotTwo
+namespace CrackingTheCodingInterview
 {
-    public class Program
+    public class OneDotTwo
     {
         public static void Main(string[] args)
         {

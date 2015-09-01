@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace OneDotThree
+namespace CrackingTheCodingInterview
 {
-    public class Program
+    public class OneDotThree
     {
         public static void Main(string[] args)
         {
