@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackingTheCodingInterview", "CrackingTheCodingInterview\CrackingTheCodingInterview.csproj", "{17B562FF-2D1B-4B6C-8EED-45E8FAE1D8E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.1", "CrackingTheCodingInterview\1.1.csproj", "{17B562FF-2D1B-4B6C-8EED-45E8FAE1D8E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.2", "1.2\1.2.csproj", "{12D18626-83A1-4331-8EEE-3130365A8540}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{17B562FF-2D1B-4B6C-8EED-45E8FAE1D8E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17B562FF-2D1B-4B6C-8EED-45E8FAE1D8E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17B562FF-2D1B-4B6C-8EED-45E8FAE1D8E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D18626-83A1-4331-8EEE-3130365A8540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D18626-83A1-4331-8EEE-3130365A8540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D18626-83A1-4331-8EEE-3130365A8540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D18626-83A1-4331-8EEE-3130365A8540}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
