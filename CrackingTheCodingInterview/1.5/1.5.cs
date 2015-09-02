@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CrackingTheCodingInterview
 {
@@ -10,6 +7,9 @@ namespace CrackingTheCodingInterview
     {
         public static void Main(string[] args)
         {
+            // 1.5: One Away: There are three types of edits that can be performed on strings: insert a character, remove a character, or replace a character.
+            // Given two strings, write a function to check if they are one edit (or zero edits) away.
+
             Console.WriteLine(IsOneAway("pale", "ple"));
             Console.WriteLine(IsOneAway("pales", "pale"));
             Console.WriteLine(IsOneAway("pale", "bale"));
